@@ -1,8 +1,8 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/kiranjorwekar/Linear-Regression-using-California-Dataset/blob/main/Linear_Regression_using_CalHousingData.jpg)
 
 
-# Project Title
+# Project Title - "Implement Linear Regressor on the California Housing Dataset".
 
 An assignement to find California Housing Dataset for housing price along with the available logitute and latitude using "Linear Regression" model.
 
